@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
 
         //Comentario Marco
+        //teste2
     }
 
     @Override

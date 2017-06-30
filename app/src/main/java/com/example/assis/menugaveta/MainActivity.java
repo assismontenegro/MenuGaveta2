@@ -40,12 +40,6 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-
-        //Comentario Marco
-        //teste2
-        // Novo teste 2
-        // Sobe carai
-        // Mais um comentario
     }
 
     @Override
@@ -106,8 +100,4 @@ public class MainActivity extends AppCompatActivity
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
-
-    //negão da picona
-    //putaria
-    //testando
 }

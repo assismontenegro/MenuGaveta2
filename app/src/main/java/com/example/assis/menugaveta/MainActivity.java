@@ -105,3 +105,5 @@ public class MainActivity extends AppCompatActivity
     //putaria
     //testando
 }
+
+//TODO: se der erro, alterar no app com.google.android.gms:play-services-appindexing:9.6.1 por com.google.android.gms:play-services-auth:9.6.1
